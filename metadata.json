@@ -1,0 +1,6 @@
+{
+  "name": "Criminal Pay",
+  "description": "Aplicativo de gestão de contratos e parcelas para advogados criminalistas, com lembretes, calendário, relatórios de inadimplência e automatização de cobranças via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
